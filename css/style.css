@@ -1,0 +1,127 @@
+/*link rel="preconnect" href="https://fonts.gstatic.com" crossorigin*/
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
+
+.hearder__content {
+    display: flex;
+    column-gap: 50px;
+    justify-content: space-between;
+}
+
+.img {
+    max-width: 100%;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+a {
+    color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+.conteiner {
+    max-width: 1230px;
+    padding: 0px 15px;
+    margin: 0 auto;
+}
+
+.logo {}
+
+.nav__link {
+    display: flex;
+}
+
+.hero__img {}
+
+.header {}
+
+
+
+.hero__content {
+    padding-top: 170px;
+    justify-content: ;
+}
+
+.title {
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 20px 40px;
+}
+
+.hero__btn {
+    display: block;
+
+}
+
+.btn {
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 20px 40px;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.15em;
+}
+
+.btn_theme_green {
+    color: white;
+    background: #475F45;
+}
+
+.hero {
+    padding-bottom: 115px;
+}
+
+.btn_theme_white {}
+
+.btn_theme_transparent {
+    background-color: transparent;
+    color: #475F45;
+    border-color: #475F45;
+}
+
+.btn_theme_transparent {
+    border-color: #475F45;
+}
+
+.btn_theme_transparent {
+    color: #475F45;
+    border-color: #475F45;
+}
+
+.btn_theme_transparent:hover {
+    color: white;
+    background: #475F45;
+}
+
+.nav__item.btn {
+    padding: 15px 30px;
+}
+
+.nav__item {}
+
+.hero__main-conteiner {}
+
+.hero__desk {}

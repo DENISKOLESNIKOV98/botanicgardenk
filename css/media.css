@@ -1,0 +1,15 @@
+@media (max-width:768px) {
+    .hearder.nav {
+        .display: none;
+    }
+
+    .hero__main_conteiner {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .hero__content {
+        padding-top: 0px;
+        text-align: center;
+    }
+}
