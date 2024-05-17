@@ -48,21 +48,18 @@ h6 {
     margin: 0 auto;
 }
 
-.logo {}
+
 
 .nav__link {
     display: flex;
 }
 
-.hero__img {}
-
-.header {}
 
 
 
 .hero__content {
     padding-top: 170px;
-    justify-content: ;
+    justify-content: space-between;
 }
 
 .title {
@@ -94,7 +91,7 @@ h6 {
     padding-bottom: 115px;
 }
 
-.btn_theme_white {}
+
 
 .btn_theme_transparent {
     background-color: transparent;
@@ -125,3 +122,11 @@ h6 {
 .hero__main-conteiner {}
 
 .hero__desk {}
+
+.logo {}
+
+.hero__img {}
+
+.header {}
+
+.btn_theme_white {}

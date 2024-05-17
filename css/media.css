@@ -1,6 +1,6 @@
 @media (max-width:768px) {
     .hearder.nav {
-        .display: none;
+        display: none;
     }
 
     .hero__main_conteiner {
